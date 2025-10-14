@@ -8,7 +8,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mongodb,bash,github,linux,raspberrypi,vim,vscode,apple,arduino,debian,bots,fastapi,git,github,html,htmx,md,nginx,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mongodb,bash,github,linux,raspberrypi,vim,vscode,apple,arduino,debian,bots,fastapi,git,html,htmx,md,nginx,postman)](https://skillicons.dev)
 
 ###
 
