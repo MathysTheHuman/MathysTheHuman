@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/8351186.gif"  />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYweHJtMm9sNXoxcjk3YmNpd3IwemYyaXoyeWFncnUxYjRnZ29qNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rs68swy4sm5kua6iDC/giphy.gif"  />
 </div>
 
 ###
