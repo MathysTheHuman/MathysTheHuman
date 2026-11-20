@@ -6,6 +6,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlidHJibGRpMG1pZXdseGs3OXMybG44Y2JlZDJ6NWFieWRkaHc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxmbqvfUuOs1jF45fw/giphy.gif"  />
 </div>
 
-Hi, I'm one of the cofound of [summry](https://summry.fr).
+Hi, I'm one of the cofounder of [summry](https://summry.fr).
 
 ###
